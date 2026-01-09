@@ -2,13 +2,7 @@
 
 🚀 **Full-Stack & Flutter Developer** passionate about building scalable web, mobile, and SaaS applications.
 
-💼 Currently working as a **Software Developer at Brainbean Technolabs Pvt. Ltd.**, where I develop **ERP systems, POS solutions, and e-commerce platforms** used by real businesses.
-
-## 🛠️ Tech Stack
-- **Frontend:** React, Next.js, Flutter  
-- **Backend:** Node.js, Express  
-- **Database:** MongoDB  
-- **Others:** REST APIs, Clean Architecture, Performance Optimization  
+I’m currently working as a **Software Developer at Brainbean Technolabs Pvt. Ltd.**, where I develop and maintain **ERP systems, POS solutions, e-commerce platforms, and mobile applications** used by real businesses. Alongside my full-time role, I also work on **freelance projects**, delivering reliable and performance-driven solutions.
 
 ## ✨ What I Do
 - Build secure and scalable backend systems  
